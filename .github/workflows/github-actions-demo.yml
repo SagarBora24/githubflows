@@ -1,0 +1,11 @@
+name: Hello World YAML File
+on: 
+  push:
+    branches:
+      - master
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Hello World
+        run: echo "🎉 The job was automatically triggered
