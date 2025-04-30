@@ -8,4 +8,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Hello World
-        run: echo "🎉 The job was automatically triggered
+        run: echo "🎉 The job was automatically triggered"
